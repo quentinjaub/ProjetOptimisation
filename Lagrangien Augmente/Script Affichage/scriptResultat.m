@@ -1,0 +1,7 @@
+disp('Solution du probleme : xsol = ')
+disp(xsol)
+disp(['Multiplicateur : lsol = ', num2str(lsol) ])
+disp(['musol = ', num2str(musol) ])
+disp(['Nombre d iterations = ', num2str(k) ])
+disp(['Nombre d iterations internes = ', num2str(nb_intern) ])
+disp(['Evaluation de c en xsol: c_xsol = ', num2str(c_x) ])
