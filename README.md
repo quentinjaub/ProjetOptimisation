@@ -1,2 +1,3 @@
 # ProjetOptimisation
-Projet de 2A ENSEEIHT en Optimisation
+
+Launch **main.py** and choose your optimization method
